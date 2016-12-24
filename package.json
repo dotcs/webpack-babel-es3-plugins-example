@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "babel-core": "^6.21.0",
+    "babel-loader": "^6.2.10",
+    "babel-plugin-transform-es3-member-expression-literals": "^6.8.0",
+    "babel-plugin-transform-es3-property-literals": "^6.8.0",
+    "webpack": "^1.14.0"
+  }
+}
